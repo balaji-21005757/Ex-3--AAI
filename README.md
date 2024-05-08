@@ -1,7 +1,7 @@
 <H3>NAME : BALAJI K</H3>
 <H3>REGISTER NO. : 212221230011</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE: 25/02/24</H3>
+<H3>DATE: 06/03/24</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
